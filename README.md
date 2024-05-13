@@ -41,9 +41,11 @@ while True:
 ```
 
 ## OUTPUT:
+## CLIENT
 ![image](https://github.com/kannan-nagaraju/2a_Stop_and_Wait_Protocol/assets/145742755/b9056b50-3128-4b2a-9204-0851d5844096)
-![image](https://github.com/kannan-nagaraju/2a_Stop_and_Wait_Protocol/assets/145742755/f43d38be-4f63-4353-844a-15dea39edf0f)
 
+## SERVER:
+![image](https://github.com/kannan-nagaraju/2a_Stop_and_Wait_Protocol/assets/145742755/f43d38be-4f63-4353-844a-15dea39edf0f)
 
 ## RESULT:
 Thus, python program to perform stop and wait protocol was successfully executed.
